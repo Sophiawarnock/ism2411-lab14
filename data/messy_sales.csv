@@ -1,0 +1,9 @@
+order_date,product_category,region,unit_price,quantity_sold,customer_id
+2026-01-10,Widget A,South,$120.00,10,C001
+2026-01-11,Widget B,North,,5,C002
+2026-01-12,Widget C,South,$150.00,12,C003
+2026-01-10,Widget A,South,$120.00,10,C001
+invalid_date,Widget A,East,$95.00,8,C004
+2026-01-14,Widget B,West,$110.00,-10,C005
+2026-01-15,Widget C,South,-200.00,15,C006
+2026-01-16,Widget A,North,$130.00,abc,C007
